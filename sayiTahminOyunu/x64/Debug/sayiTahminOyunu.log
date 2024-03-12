@@ -1,0 +1,3 @@
+﻿  sayiTahminOyunu.cpp
+C:\Users\hoyka\source\repos\sayiTahminOyunu\sayiTahminOyunu.cpp(6,12): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  sayiTahminOyunu.vcxproj -> C:\Users\hoyka\source\repos\sayiTahminOyunu\x64\Debug\sayiTahminOyunu.exe
